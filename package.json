@@ -6,6 +6,9 @@
   "scripts": {
     "start-custom": "node index.js"
   },
+  "bin": {
+    "start-custom": "./index.js"
+  },
   "author": "",
   "license": "ISC"
 }
